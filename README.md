@@ -4,5 +4,5 @@ We can compare sets of data, track changes in data over time, or show data distr
 
 This repository has different kinds of plots. For instance.
 * Polar plots
-Pie Chart
-3D plots
+* Pie Chart
+* 3D plots
